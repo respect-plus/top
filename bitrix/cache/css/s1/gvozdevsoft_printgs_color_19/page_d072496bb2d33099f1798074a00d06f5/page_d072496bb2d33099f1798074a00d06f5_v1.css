@@ -1,0 +1,63 @@
+
+
+/* Start:/bitrix/templates/gvozdevsoft_printgs_color_19/components/bitrix/news.list/portfolio_index_th/style.css?15953156271162*/
+.gallery--item {
+    position: relative;
+    overflow: hidden;
+}
+.gallery--item a {
+    display: block;
+    position: relative;
+}
+.gallery--item a:before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 40%;
+    background: url('../../../../../../upload/img/bg_dark.png') no-repeat center bottom;
+    background-size: cover;
+    bottom: 0;
+    z-index: 3;
+}
+.gallery-container .gallery--name {
+    position: absolute;
+    z-index: 4;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    padding: 20px 20px;
+    color: #f7f7f7;
+    font-size: 17px;
+    font-weight: bold;
+}
+.gallery--item img{
+    transition: .3s;
+}
+.gallery--item:hover img {
+    transform: scale(1.2);
+    transition: .3s;
+}
+.gallery--item .gallery--name{
+    transition: .3s;
+}
+.gallery--name .gallery__img-desc {
+    transition: .3s;
+}
+.gallery--item:hover .gallery--name {
+    transition: .3s;
+}
+@media (max-width: 767px){
+    .gallery--item a:before {
+        height: 50%;
+    }
+}
+@media (min-width: 1200px){
+    .gallery-container .container_items {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+/* End */
+/* /bitrix/templates/gvozdevsoft_printgs_color_19/components/bitrix/news.list/portfolio_index_th/style.css?15953156271162 */

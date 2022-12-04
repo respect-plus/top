@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>RespectPlus - Рекламное Агентство</title>
+<title>Gloryland - светлый шаблон для сайта компании</title>
 
 <link href="css/bootstrap.css" media="screen" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="css/phone.css">
 </head>
 <body data-offset="85" data-spy="scroll" data-target=".navbar">
-<a href="tel:+79639818558" title="Позвонить"><div class="phone-button"><i class="fa fa-phone"></i></div></a>
+<a href="tel:+79630007744" title="Позвонить"><div class="phone-button"><i class="fa fa-phone"></i></div></a>
 <div id="pageloader">
 	<div class="loader-img">
 		<img alt="loader" src="img/loader.gif"/>

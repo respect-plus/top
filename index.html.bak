@@ -13,6 +13,7 @@
 <link href="css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css">
 <link href="css/animate.css" media="screen" rel="stylesheet" type="text/css">
 <link href="css/styles.css" media="screen" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/phone.css">
 <link rel="stylesheet" href="css/whatsapp.css">
 </head>

@@ -1,31 +1,28 @@
-.fa{
-	vertical-align: middle;
-}
-.phone-button {
+.whatsapp-button {
     position: fixed;
-    right: 50px;
-    bottom: 20px;
+    left: 52px;
+    bottom: 0px;
     transform: translate(-50%, -50%);
-    background: #ff0000;
+    background: #25D366;
     border-radius: 50%;
     width: 55px;
     height: 55px;
     color: #fff;
     text-align: center;
     line-height: 50px;
-    font-size: 30px;
+    font-size: 40px;
     z-index: 9999;
 }
-.phone-button a {
+.whatsapp-button a {
     color: #fff;
 }
-.phone-button:before,
-.phone-button:after {
+.whatsapp-button:before,
+.whatsapp-button:after {
     content: " ";
     display: block;
     position: absolute;
     border: 50%;
-    border: 1px solid #ff0000;
+    border: 1px solid #25D366;
     left: -20px;
     right: -20px;
     top: -20px;
@@ -35,10 +32,10 @@
     opacity: 0;
     backface-visibility: hidden; 
 }
-.phone-button:after{
+.whatsapp-button:after{
     animation-delay: .5s;
 }
-.phone-button i {
+.whatsapp-button i {
         color:#fff;
         transition:.3s;
         animation: 3000ms ease 0s normal none 1 running shake;
@@ -119,8 +116,8 @@
 }
 }
 @media (max-width : 800px) {  
-.phone-button {   
-    bottom: 10px; /*отступ кнопки снизу от экрана*/
-    right: 30px; /*отступ кнопки слева от экрана(right - справа)*/
+.whatsapp-button {   
+    bottom: 0px; /*отступ кнопки снизу от экрана*/
+    left: 52px; /*отступ кнопки слева от экрана(right - справа)*/
   }
 }

@@ -3,8 +3,8 @@
 }
 .phone-button {
     position: fixed;
-    right: 50px;
-    bottom: 20px;
+    right: 0px;
+    bottom: 0px;
     transform: translate(-50%, -50%);
     background: #ff0000;
     border-radius: 50%;
@@ -120,7 +120,7 @@
 }
 @media (max-width : 800px) {  
 .phone-button {   
-    bottom: 10px; /*отступ кнопки снизу от экрана*/
-    right: 30px; /*отступ кнопки слева от экрана(right - справа)*/
+    bottom: 0px; /*отступ кнопки снизу от экрана*/
+    right: 0px; /*отступ кнопки слева от экрана(right - справа)*/
   }
 }

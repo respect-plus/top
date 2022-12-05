@@ -14,8 +14,203 @@
 <link href="css/animate.css" media="screen" rel="stylesheet" type="text/css">
 <link href="css/styles.css" media="screen" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="css/phone.css">
+<link rel="stylesheet" href="css/whatsapp.css">
 </head>
 <body data-offset="85" data-spy="scroll" data-target=".navbar">
+<a href="https://wa.me/79288883178" target="_blank" title="Написать в Whatsapp" rel="noopener noreferrer"><div class="whatsapp-button"><i class="fa fa-whatsapp"></i></div></a>
+<a href="tel:+79288883178" title="Позвонить"><div class="phone-button"><i class="fa fa-phone"></i></div></a>
+<div class="wrap-body">
+	<header class="zerogrid">
+		<img src="./images/log.jpg" alt="logotype" class="responsive" width="500" height="335">
+		<div id='cssmenu' class="align-center">
+			<ul>
+                <li><a href="index.html">Меню</a></li>
+				<li><a href="tel:+79288883178">Позвонить</a></li>
+				<li><a href="map.html">На карте</a></li>
+            </ul>
+		</div>
+	</header>
+		<!--////////////////////////////////////Container-->
+		<section id="container">
+			<div class="wrap-container clearfix">
+				<div id="main-content">
+					<div class="wrap-content zerogrid ">
+						<article class="background-gray">
+							<div class="art-header">
+								<hr class="line-2">
+								<h2>Меню</h2>
+							</div>
+							<div class="art-content">
+								<div class="row">
+									<div class="col">
+										<div class="wrap-col">
+											<div class="item-container">
+												<a href="newitems1.html">
+													<img class="example-image" src="images/menu-1.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Новинки</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="breakfast2.html">
+													<img class="example-image" src="images/menu-2.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Завтраки</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="salads3.html">
+													<img class="example-image" src="images/menu-3.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Салаты</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="soups4.html">
+													<img class="example-image" src="images/menu-4.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Супы</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="hotdishes5.html">
+													<img class="example-image" src="images/menu-5.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Горячие блюда</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="pizza6.html">
+													<img class="example-image" src="images/menu-6.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Пиццы</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="rolls7.html">
+													<img class="example-image" src="images/menu-7.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Роллы</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="pastes8.html">
+													<img class="example-image" src="images/menu-8.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Пасты</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="steak9.html">
+													<img class="example-image" src="images/menu-9.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Стейки</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="kebabs10.html">
+													<img class="example-image" src="images/menu-10.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Шашлыки</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="sidedishes11.html">
+													<img class="example-image" src="images/menu-11.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Гарниры</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="nationaldishes12.html">
+													<img class="example-image" src="images/menu-12.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Национальные блюда</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="forcompany13.html">
+													<img class="example-image" src="images/menu-13.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Блюда на компанию</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="fastfood14.html">
+													<img class="example-image" src="images/menu-14.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Фаст фуд</span>
+								                        </span>
+												</a>
+											</div>
+										
+										    <div class="item-container">
+												<a href="desserts15.html">
+													<img class="example-image" src="images/menu-15.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Десерты</span>
+								                        </span>
+												</a>
+											</div>
+											<div class="item-container">
+												<a href="hotcolddrinks16.html">
+													<img class="example-image" src="images/menu-16.jpg" alt=""/>
+													    <span class="zoom-caption">
+									                        <span>Горячие и холодные напитки</span>
+								                        </span>
+												</a>
+											</div>
+										</div>
+									</div><!---->
+								</div>
+							</div>
+						</article>
+					</div>
+				</div>
+			</div>
+		</section>
+		<hr class="line">
+		<!--////////////////////////////////////Footer-->
+		<footer>
+			<div class="wrap-footer">
+				<div class="zerogrid">
+					<div class="row">
+						<div class="col-1-3">
+							<div class="wrap-col">
+								<p><a class="s11" href="https://www95.ru" title="Разработка сайтов и приложений">Веб студия</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+<script src="js/lightbox-plus-jquery.min.js"></script>
+</div>
+<script type="text/javascript">
+document.getElementById("count").innerHTML = localStorage.length;
+</script>
+</body>
+</html>
+
 <a href="tel:+79639818558" title="Позвонить"><div class="phone-button"><i class="fa fa-phone"></i></div></a>
 <div id="pageloader">
 	<div class="loader-img">
@@ -29,12 +224,11 @@
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu">
 		<i class="fa fa-bars fa-fw"></i>
 		</button>
-		<a class="navbar-brand weight-900" href="#home"><img alt="" id="logo" src="img/logo.png"></a>
+		<a class="navbar-brand weight-900" href="#home"><img alt="" id="logo" src="img/logo.jpg"></a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="main-menu">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a class="scrollto" href="#home">Главная</a></li>
 			<li><a class="scrollto" href="#about">О нас</a></li>
 			<li><a href="#services" class="#scrollto">Наши услуги</a></li>
 			<li><a class="scrollto" href="#portfolio">Наши работы</a></li>
@@ -60,8 +254,6 @@
 			<div class="caption container">
 			<h2 class="weight-700 color-white">ПРОИЗВОДСТВО НАРУЖНОЙ РЕКЛАМЫ</h2>
 			<h4 class="weight-400 color-white">Работаем по всей России.</h4>
-			<br/>
-			<a class="btn btn-primary scrollto"  href="#about">Подробнее</a><a class="btn btn-white btn-outline scrollto" href="#contact">Заказать</a>
 			</div>
 		</div>
 		<div class="parallax" style="background-image:url(img/pictures/office.jpg)" data-stellar-background-ratio="0.2">
@@ -70,7 +262,6 @@
 			<div class="caption container">
 			<h2 class="weight-700 color-white">ПРОИЗВОДСТВО ИНТЕРЬЕРНОЙ РЕКЛАМЫ</h2>
 			<h4 class="weight-400 color-white">Работаем по всей России.</h4>
-			<br/><a class="btn btn-primary scrollto" href="#about">Подробнее</a><a class="btn btn-white btn-outline scrollto"  href="#contact">Заказать</a>
 			</div>
 			
 		</div>
@@ -105,97 +296,6 @@
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
-<div class="fullwidth-section">
-	<div class="parallax" style="background-image: url(img/pictures/chair.jpg)" data-stellar-background-ratio="0.2">
-	</div>
-	<div class="img-overlay-solid" style="background-color:rgba(0,0,0,0.4);">
-	</div>
-	<div class="container color-white">
-		<!-- ========== START ICON FEATURES BOX ========== -->
-		<div class="row">
-			<div class="col-md-4 ae">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-calendar color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Дизайн</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 ae" data-delay="250">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-keyboard color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Верстка</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает 
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 ae" data-delay="500">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-mobile color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Оптимизация</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает 
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4 ae">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-download color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Продвижение</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает 
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 ae" data-delay="250">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-bubble color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Фронтенд</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает 
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4 ae" data-delay="500">
-				<div class="icon-feature-horizontal">
-					<div class="icon">
-						<i class="im-menu color-primary"></i>
-					</div>
-					<div class="content">
-						<h4 class="uppercase weight-700 color-white">Бэкенд</h4>
-						<p>
-							Повседневная практика показывает, что дальнейшее развитие различных форм деятельности обеспечивает 
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END ICON FEATURES BOX -->
 	</div>
 </div>
 </section>
@@ -326,45 +426,6 @@
 		</div>
 		<!-- END OF ACCORDION AND TABS -->
 
-</div>
-<!-- FEATURES COUNTERS -->
-<div class="fullwidth-section">
-	<div class="parallax" style="background-image: url('img/pictures/office.jpg')" data-stellar-background-ratio="0.2">
-	</div>
-	<div class="img-overlay-solid" style="background: url(img/pictures/bg-111.jpg); background-attachment: fixed;">
-	</div>
-	<div class="container">
-		<div class="row color-white counter-section">
-			<div class="col-md-3 text-center">
-				<i class="im-happy color-white"></i>
-				<div class="counter" data-end-count="63" data-speed="2500">
-					0
-				</div>
-				<h4 class="color-white uppercase weight-600">Довольных клиентов</h4>
-			</div>
-			<div class="col-md-3 text-center">
-				<i class="im-facebook color-white"></i>
-				<div class="counter" data-end-count="21" data-speed="2500">
-					0
-				</div>
-				<h4 class="color-white uppercase weight-600">Надежных партнеров</h4>
-			</div>
-			<div class="col-md-3 text-center">
-				<i class="im-twitter color-white"></i>
-				<div class="counter" data-end-count="63" data-speed="2500">
-					0
-				</div>
-				<h4 class="color-white uppercase weight-600">Готовых проектов</h4>
-			</div>
-			<div class="col-md-3 text-center">
-				<i class="im-wrench color-white"></i>
-				<div class="counter" data-end-count="93" data-speed="2500">
-					0
-				</div>
-				<h4 class="color-white uppercase weight-600">Успешных работ</h4>
-			</div>
-		</div>
-	</div>
 </div>
 </section>
 
